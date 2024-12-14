@@ -1,7 +1,5 @@
 # "Sports-League-Analysis"-SQL-Project
 
-# Sports League Analysis: SQL Project
-
 This project demonstrates the use of SQL to analyze a sports league database. It includes data about teams, players, matches, and player performance. The goal is to answer various sports-related questions using SQL.
 
 ## Features
