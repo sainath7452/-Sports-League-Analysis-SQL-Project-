@@ -14,7 +14,7 @@ This project demonstrates the use of SQL to analyze a sports league database. It
 3. **matches**: Contains match results and scores.
 4. **player_statistics**: Tracks individual player performance in matches.
 
-## Example Queries
+## Queries
 - Top goal scorer across all matches
 - Total goals scored by each team
 - Match results: winner or draw
